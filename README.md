@@ -1,12 +1,12 @@
 
-Acronym Generator:
+Acronym Generator :
 This Python code prompts the user to enter a phrase and generates the acronym for that phrase.
 
 Usage
 Run the code in a Python environment.
 Enter a phrase when prompted.
 
-Explanation
+Explanation : 
 The user is prompted to enter a phrase, which is stored in the variable s.
 The acronym function is defined to generate the acronym for a given phrase.
 The input phrase is converted to lowercase using string.lower().
